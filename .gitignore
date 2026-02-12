@@ -1,0 +1,12 @@
+# OS
+.DS_Store
+
+# Environment / Secrets
+.env
+.env.*
+
+# Claude Code local settings (personal, not shared)
+.claude/settings.local.json
+
+# Node modules (if MCP servers are installed locally)
+node_modules/
